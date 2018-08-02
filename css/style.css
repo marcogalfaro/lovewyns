@@ -1,0 +1,62 @@
+body, html {
+    height: 100%;
+    background-color: #afd6b7;
+    color: white;
+}
+.headerhome {
+	font-family: Lobster;
+	font-size: 65px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+    line-height: 26.4px;
+}
+.headerwellness {
+	font-family: Lobster;
+	font-size: 65px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+    line-height: 26.4px;
+}
+.headercontact {
+	font-family: Lobster;
+	font-size: 65px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+    line-height: 26.4px;
+}
+.bg {
+    /* The image used */
+    background-image: url("../img/mountains.jpg");
+
+    /* Full height */
+    height: 50%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-pills > li > a.active {
+    background-color: #afd6b7!important;
+}
+
+a {
+    color: yellow;
+}
+
+/* contact form css */
+#success_message{ display: none;}
+
+/* fonts */
+
+.cursive {
+  font-family: cursive;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
